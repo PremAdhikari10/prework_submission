@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster Crowfunding Website*
 
-Submitted by: **Prem Adhikeri**
+Submitted by: **Prem Adhikari**
 
 **Sea Life Game Fundings** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -24,10 +24,11 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/0EIIhJU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/PremAdhikari10/prework_submission/blob/master/prework.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... 
-# LiCECAP
+# LICECAP
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
